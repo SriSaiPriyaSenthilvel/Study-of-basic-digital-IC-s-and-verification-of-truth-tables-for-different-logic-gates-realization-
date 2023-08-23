@@ -78,9 +78,9 @@ Y= A⊕B
    - Give the Input Combinations according to the Truth Table amd then simulate the Output Waveform.
 ## Program:
 /*
+```
 Program to verify the truth table in quartus for the basic logic gates using Verilog programming.
-
-Developed by: Sri Sai Priya.S 
+Developed by: SRI SAI PRIYA.S
 RegisterNumber: 212222240103
 
 module gates(a,b,yand,yor,ynot,yxor,ynand,ynor,yxnor);
@@ -95,7 +95,7 @@ nor(ynor,a,b);
 xnor(yxnor,a,b);
 endmodule
 */
-
+```
 ## RTL diagram:
 ![image](https://github.com/SriSaiPriyaSenthilvel/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/119475702/01d2ba01-8c14-422e-9e98-586850567c6e)
 
