@@ -1,4 +1,4 @@
-# Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-
+# Study of basic digital IC's and verification of truth tables for different logic gates realization
 ## Aim:
 To study about the different digital IC’s and to verify the truth table in Quartus for the basic logic gates using Verilog programming.
 
@@ -100,6 +100,7 @@ endmodule
 ![image](https://github.com/SriSaiPriyaSenthilvel/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/119475702/01d2ba01-8c14-422e-9e98-586850567c6e)
 
 ## Truth table:
+![261832341-75005449-bbc1-448f-94ca-ac3df8ed0da2](https://github.com/SriSaiPriyaSenthilvel/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/119475702/2c7e70bc-30cc-41f7-9f02-cbb163972f3c)
 
 ## Output waveform:
 ![image](https://github.com/SriSaiPriyaSenthilvel/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/119475702/5fd544e2-3c99-4b67-82d8-642d4d78ec04)
