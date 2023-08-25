@@ -97,7 +97,7 @@ endmodule
 */
 ```
 ## RTL diagram:
-![Uploading image.png…]()
+![image](https://github.com/SriSaiPriyaSenthilvel/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/119475702/64d30400-443b-4bb1-b685-cd810fdd92f4)
 
 ## Truth table:
 ![261832341-75005449-bbc1-448f-94ca-ac3df8ed0da2](https://github.com/SriSaiPriyaSenthilvel/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/119475702/2c7e70bc-30cc-41f7-9f02-cbb163972f3c)
